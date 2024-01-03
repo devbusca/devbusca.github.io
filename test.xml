@@ -1,1 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"></rss>
+    <channel>
+        <title>Metatube</title>
+        <link>https://www.metatube.com/</link>
+        <description>The Web's Most Watched Videos</description>
+        <language>en</language>
+        <lastBuildDate>2022-11-19T15:00:01+00:00</lastBuildDate>
+    </channel>
+</rss>
