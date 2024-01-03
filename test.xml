@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"></rss>
-    <channel>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
         <title>Metatube</title>
         <link>https://www.metatube.com/</link>
         <description>The Web's Most Watched Videos</description>
         <language>en</language>
         <lastBuildDate>2022-11-19T15:00:01+00:00</lastBuildDate>
-    </channel>
+        <item>
+            <guid>
+            https://www.metatube.com/en/videos/517668/Dad-uses-baby-as-personal-table-to-hold-his-food/
+            </guid>
+            <pubDate>2022-11-16T22:19:37+00:00</pubDate>
+            <title>Dad uses baby as personal table to hold his food</title>
+            <description>
+            If you look closely youll notice something start to move under that plate Too funny
+            </description>
+            <category>Funny Videos</category>
+            <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2607128_800x450.jpeg" width="800" height="450"/>
+            <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/423284_mp4.mp4" duration="30" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200"/>
+        </item>
+        <item>
+            <guid>
+            https://www.metatube.com/en/videos/517459/Mom-documents-what-its-like-to-have-toddler-baby/
+            </guid>
+            <pubDate>2022-11-14T19:41:28+00:00</pubDate>
+            <title>Mom documents what its like to have toddler baby</title>
+            <description>
+            This mom showed a very short video but huge tell what is like to have a toddler and a baby and its super funny
+            </description>
+            <category>Funny Videos</category>
+            <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2605529_800x450.jpeg" width="800" height="450"/>
+            <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/423075_mp4.mp4" duration="27" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200"/>
+            </item>
+</channel>
 </rss>
