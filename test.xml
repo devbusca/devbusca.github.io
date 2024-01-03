@@ -71,9 +71,7 @@
             <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2585132_800x450.jpeg" width="800" height="450"/>
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/420393_mp4.mp4" duration="68" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200"/>
         </item>
-
         <!-- Category: Music Videos -->
-
         <item>
             <guid>
             https://www.metatube.com/en/videos/517426/Louis-Tomlinson-Silver-Tongues-Official-Video/
@@ -87,6 +85,46 @@
             <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2605288_800x450.jpeg" width="800" height="450"/>
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/423042_mp4.mp4" duration="217" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200"/>
         </item>
-        
+        <item>
+            <guid>
+            https://www.metatube.com/en/videos/516834/Motionless-In-White-Werewolf-Official-Video/
+            </guid>
+            <pubDate>2022-11-01T13:31:40+00:00</pubDate>
+            <media:title>Motionless In White - Werewolf Official Video</media:title>
+            <media:description>
+            LYRICS I can feel you I can hear you howling in my bones There s an evil lurking in the dark there s an evil lurkin in the dark Ever shifting skin is ripping as you take control I can t tell where
+            </media:description>
+            <media:category>Music Videos</media:category>
+            <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2600886_800x450.jpeg" width="800" height="450"/>
+            <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/422447_mp4.mp4" duration="228" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200"/>
+        </item>
+        <item>
+            <guid>
+            https://www.metatube.com/en/videos/516721/Busta-Rhymes-Big-Daddy-Kane-Conway-the-Machine-Slap-Official-Video/
+            </guid>
+            <pubDate>2022-10-29T18:01:42+00:00</pubDate>
+            <media:title>
+            Busta Rhymes Big Daddy Kane Conway the Machine - Slap Official Video
+            </media:title>
+            <media:description>
+            Official Video by Busta Rhymes Big Daddy Kane Conway the Machine - Slap 2022 The Conglomerate Entertainment Inc EMPIRE
+            </media:description>
+            <media:category>Music Videos</media:category>
+            <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2600027_800x450.jpeg" width="800" height="450"/>
+            <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/422334_mp4.mp4" duration="312" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200"/>
+        </item>
+        <item>
+            <guid>
+            https://www.metatube.com/en/videos/516694/Rihanna-Lift-Me-Up-Audio/
+            </guid>
+            <pubDate>2022-10-28T16:21:47+00:00</pubDate>
+            <media:title>Rihanna - Lift Me Up Audio</media:title>
+            <media:description>
+            Directed by Fenty Corp Roc Nation Produced by Westbury Road Entertainment Roc Nation Art Direction Fenty Corp Photography by Dennis Leupold
+            </media:description>
+            <media:category>Music Videos</media:category>
+            <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2599804_800x450.jpeg" width="800" height="450"/>
+            <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/422307_mp4.mp4" duration="196" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200"/>
+        </item>
 </channel>
 </rss>
