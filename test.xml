@@ -6,19 +6,20 @@
         <description>The Web's Most Watched Videos</description>
         <language>en</language>
         <lastBuildDate>2022-11-19T15:00:01+00:00</lastBuildDate>
-        <!-- Category: Funny Videos -->
+        <!-- Category: Funny Videos -->7
         <item>
-            <guid>
-            https://www.metatube.com/en/videos/517668/Dad-uses-baby-as-personal-table-to-hold-his-food/
-            </guid>
-            <pubDate>2022-11-16T22:19:37+00:00</pubDate>
             <title>Dad uses baby as personal table to hold his food</title>
             <description>
             If you look closely youll notice something start to move under that plate Too funny
             </description>
-            <category>Funny Videos</category>
-            <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2607128_800x450.jpeg" width="800" height="450"/>
-            <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/423284_mp4.mp4" duration="30" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200"/>
+            <pubDate>2022-11-16T22:19:37+00:00</pubDate>
+            <guid>
+            https://www.metatube.com/en/videos/517668/Dad-uses-baby-as-personal-table-to-hold-his-food/
+            </guid>
+            <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/423284_mp4.mp4" duration="30" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200">
+            <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2607128_800x450.jpeg" width="800"/>
+            <media:keywords>Funny Videos</media:keywords>
+            </media:content>
         </item>
         <item>
             <guid>
@@ -34,7 +35,7 @@
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/423075_mp4.mp4" duration="27" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200"/>
         </item>
         <item>
-            <guid>
+            <guid>9
             https://www.metatube.com/en/videos/516988/Dogs-fight-at-Altar-de-muertos/
             </guid>
             <pubDate>2022-11-02T18:36:42+00:00</pubDate>
