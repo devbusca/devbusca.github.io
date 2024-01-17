@@ -15,6 +15,7 @@
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/423284_mp4.mp4" duration="30" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200">
             <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2607128_800x450.jpeg" width="800"/>
             <media:category>Funny Videos</media:category>
+            <media:keywords>Funny Videos</media:keywords>
             </media:content>
         </item>  
         <item>
@@ -25,6 +26,7 @@
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/423075_mp4.mp4" duration="27" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200">
             <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2605529_800x450.jpeg" width="800" height="450"/>
             <media:category>Funny Videos</media:category>
+            <media:keywords>Funny Videos</media:keywords>
             </media:content>
         </item>
         <item>
@@ -35,6 +37,7 @@
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/422601_mp4.mp4" duration="15" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200">
             <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2602020_800x450.jpeg" width="800" height="450"/>
             <media:category>Funny Videos</media:category>
+            <media:keywords>Funny Videos</media:keywords>
             </media:content>
         </item>
         <item>
@@ -45,6 +48,7 @@
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/422600_mp4.mp4" duration="85" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200">
             <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2602058_800x450.jpeg" width="800" height="450"/>
             <media:category>Funny Videos</media:category>
+            <media:keywords>Funny Videos</media:keywords>
             </media:content>
         </item>
         <item>
@@ -55,6 +59,7 @@
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/420393_mp4.mp4" duration="68" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200">
             <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2585132_800x450.jpeg" width="800" height="450"/>
             <media:category>Funny Videos</media:category>
+            <media:keywords>Funny Videos</media:keywords>
             </media:content>
         </item>
         <!-- Category: Music Videos -->
@@ -66,6 +71,7 @@
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/423042_mp4.mp4" duration="217" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200">
             <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2605288_800x450.jpeg" width="800" height="450"/>
             <media:category>Music Videos</media:category>
+            <media:keywords>Music Videos</media:keywords>
             </media:content>
         </item>
         <item>
@@ -76,6 +82,7 @@
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/422447_mp4.mp4" duration="228" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200">
             <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2600886_800x450.jpeg" width="800" height="450"/>
             <media:category>Music Videos</media:category>
+            <media:keywords>Music Videos</media:keywords>
             </media:content>
         </item>
         <item>
@@ -86,6 +93,7 @@
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/422334_mp4.mp4" duration="312" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200">
             <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2600027_800x450.jpeg" width="800" height="450"/>
             <media:category>Music Videos</media:category>
+            <media:keywords>Music Videos</media:keywords>
             </media:content>
         </item>
         <item>
@@ -96,6 +104,7 @@
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/422307_mp4.mp4" duration="196" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200">
             <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2599804_800x450.jpeg" width="800" height="450"/>
             <media:category>Music Videos</media:category>
+            <media:keywords>Music Videos</media:keywords>
             </media:content>
         </item>
         <!-- Category: Sports Videos -->
@@ -107,6 +116,7 @@
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/416532_mp4.mp4" duration="7" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200">
             <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2555717_800x450.jpeg" width="800" height="450"/>
             <media:category>Sports</media:category>
+            <media:keywords>Sports</media:keywords>
             </media:content>
         </item>
         <item>
@@ -117,6 +127,7 @@
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/414892_mp4.mp4" duration="74" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200">
             <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2543403_800x450.jpeg" width="800" height="450"/>
             <media:category>Sports</media:category>
+            <media:keywords>Sports</media:keywords>
             </media:content>
         </item>
         <item>
@@ -127,6 +138,7 @@
             <media:content url="https://cl.buscafs.com/www.metatube.com/public/uploads/videos/414889_mp4.mp4" duration="545" type="video/mp4" lang="" medium="video" bitrate="128" framerate="25" samplingrate="44.1" channels="2" width="300" height="200">
             <media:thumbnail url="https://cl.buscafs.com/www.metatube.com/public/uploads/images/2543386_800x450.jpeg" width="800" height="450"/>
             <media:category>Sports</media:category>
+            <media:keywords>Sports</media:keywords>
             </media:content>
         </item>
 </channel>
